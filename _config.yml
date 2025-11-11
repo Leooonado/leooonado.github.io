@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Leyun's Page 
+title: Leoo's Page 
 email: yuanleyun@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
@@ -58,13 +58,13 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Leyun Yuan"
-  avatar : "/assets/images/LinkedIn Pic.jpg"
+  name   : "Leoo乐奥奥/Leyun"
+  avatar : "/assets/images/artpfp.png"
   bio    : "Marketer & Artist. Aspiring Marketing Analyst. Graduate student in Marketing Analytics"
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://leyunyuan.github.io"
+#    - label: "Website"
+#      icon: "fas fa-fw fa-link"
+#      url: "https://leyunyuan.github.io"
 #    - label: "Twitter"
 #      icon: "fab fa-fw fa-twitter-square"
 #      url: "https://twitter.com/"
@@ -74,21 +74,21 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://www.instagram.com/leleoo_art"
-    - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/leyun-yuan/"
+#    - label: "LinkedIn"
+#      icon: "fab fa-fw fa-linkedin"
+#      url: "https://www.linkedin.com/in/leyun-yuan/"
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+#    - label: "X"
+#      icon: "fab fa-fw fa-twitter-square"
+#      url: "https://https://x.com/Le_ooonardo"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/leooonado"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://instagram.com/leleoo_art"
 
 defaults:
   # _posts
